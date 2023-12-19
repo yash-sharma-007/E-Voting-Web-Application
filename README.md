@@ -172,7 +172,7 @@ $ python3 manage.py runserver
 
 **7. Login Credentials**
 
-Create Super User (HOD)
+Create Super User (Admin)
 Command for PC:
 ```
 $  python manage.py createsuperuser
